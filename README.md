@@ -79,14 +79,14 @@ JavaScript: [##############              ] 30% 💻
 
    **🚀Features**
 
-  ```
-  - 🔍 Single URL Scanning: Analyze individual URLs for SQL injection vulnerabilities.
-  - 📋 Multiple URLs Scanning: Efficiently scan a batch of URLs from a file.
-  - 📜 Parameter-based Testing: Detect SQL injection vulnerabilities through URL parameters.
-  - 🏷️ Header-based Testing: Assess vulnerabilities in HTTP headers.
-  - ⏳ Time-based Scanning: Utilize time-based payloads to identify vulnerabilities by measuring delays in response times.
-  - 📈 Comprehensive Output: Detailed results with response times and vulnerability statuses, including specific payloads that triggered issues.
-  ```
+   ```
+   - 🔍 Single URL Scanning: Analyze individual URLs for SQL injection vulnerabilities.
+   - 📋 Multiple URLs Scanning: Efficiently scan a batch of URLs from a file.
+   - 📜 Parameter-based Testing: Detect SQL injection vulnerabilities through URL parameters.
+   - 🏷️ Header-based Testing: Assess vulnerabilities in HTTP headers.
+   - ⏳ Time-based Scanning: Utilize time-based payloads to identify vulnerabilities by measuring delays in response times.
+   - 📈 Comprehensive Output: Detailed results with response times and vulnerability statuses, including specific payloads that triggered issues.
+   ```
 ---
 
 ## 🗺️ Repository Overview
