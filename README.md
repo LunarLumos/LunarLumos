@@ -69,14 +69,24 @@ JavaScript: [##############              ] 30% 💻
      [*] Comprehensive Coverage: Detailed port descriptions and recurring scans 🔍
    ```
 
-2. **[Perl Concepts Repository](https://github.com/LunarLumos/perl)** 🐪  
-   Unlock the magic of Perl with this comprehensive repository. It’s packed with practical examples, historical insights, and everything you need to master Perl!
+2. **[SpecterScan](https://github.com/LunarLumos/SpecterScan)**
 
-   **📜 Highlights:**
-   - **History of Perl:** Trace Perl’s evolution from its origins to today.
-   - **Repository Structure:** Explore topics like Input, Arrays, Hashes, and more!
-   - **Why Learn Perl:** Discover Perl’s strengths in text processing, automation, and more.
+   
+   SpecterScan is a powerful Perl-based SQL Injection vulnerability scanner.
+   It helps ensure the security of your web applications by testing URLs with various payloads.
+   This tool identifies potential SQL injection vulnerabilities using time-based techniques to reveal delays in response times.
+   
 
+   **🚀Features**
+
+  ```
+  - 🔍 Single URL Scanning: Analyze individual URLs for SQL injection vulnerabilities.
+  - 📋 Multiple URLs Scanning: Efficiently scan a batch of URLs from a file.
+  - 📜 Parameter-based Testing: Detect SQL injection vulnerabilities through URL parameters.
+  - 🏷️ Header-based Testing: Assess vulnerabilities in HTTP headers.
+  - ⏳ Time-based Scanning: Utilize time-based payloads to identify vulnerabilities by measuring delays in response times.
+  - 📈 Comprehensive Output: Detailed results with response times and vulnerability statuses, including specific payloads that triggered issues.
+  ```
 ---
 
 ## 🗺️ Repository Overview
