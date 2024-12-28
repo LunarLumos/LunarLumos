@@ -39,11 +39,9 @@ My tech journey began with a fascination for how systems work and a desire to en
 2. **[BBook](https://github.com/LunarLumos/bbook)** 📜  
    Bash scripting made simple with practical guides. Learn how to write effective Bash scripts and automate your workflows with ease.
 
-3. **[PBook](https://github.com/LunarLumos/pbook)** 🐪  
+3. **[Perl](https://github.com/LunarLumos/perl)** 🐪  
    Your ultimate guide to mastering Perl. This repository covers a wide range of Perl topics and provides hands-on examples to enhance your skills.
 
-4. **[JBook](https://github.com/LunarLumos/jbook)** 💫  
-   Comprehensive insights into JavaScript. From fundamental concepts to modern techniques, explore the world of JavaScript with this detailed guide.
 
 ### 🛠️ Tools
 
@@ -83,22 +81,6 @@ My tech journey began with a fascination for how systems work and a desire to en
    - 📈 Comprehensive Output: Detailed results with response times and vulnerability statuses, including specific payloads that triggered issues.
    ```
 ---
-
-## 🗺️ Repository Overview
-
-Explore my repositories with graph!
-
-```plaintext
-+-------------------+------------------+-------------------+
-| CBook             | BBook            | PBook             |
-|   [█████████████] | [█████           | [█████            |
-|  70%              |  50%             |  50%              |
-+-------------------+------------------+-------------------+
-| JBook             | Perl Concepts    |
-|  [█████           | [██████          |
-|  50%              |  60%             |
-+-------------------+------------------+
-```
 
 ### Repository Stats
 
