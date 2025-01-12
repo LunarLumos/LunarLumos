@@ -1,6 +1,6 @@
 # Welcome to My Lunar Universe! 🌌✨
 
-Hello, fellow tech explorers! I’m **LunarLumos** 🌟—a **Perl Programmer**, **Security Engineer**, and **AI Enthusiast**. Dive into my repositories and let’s code something amazing together!
+Hello, fellow tech explorers! I’m **LunarLumos** 🌟—a ** Programmer**, **Security Engineer**, and **AI Enthusiast**. Dive into my repositories and let’s code something amazing together!
 
 ---
 
