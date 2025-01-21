@@ -13,7 +13,7 @@ Hello, fellow tech explorers! I’m **LunarLumos** 🌟—a **Programmer**, **Se
 **🌍 GitHub Contributions:** Crafting innovative tools and exploring tech frontiers!
 
 **👋 Personal Journey:**  
-My tech journey began with a fascination for how systems work and a desire to enhance security. Over the years, I’ve honed my skills in Perl and JavaScript, while delving deep into network security and AI. I love sharing my knowledge through projects and collaborations.
+My tech journey began with a fascination for how systems work and a desire to enhance security. Over the years, I’ve honed my skills in Perl and Python, while delving deep into network security and AI. I love sharing my knowledge through projects and collaborations.
 
 ---
 
