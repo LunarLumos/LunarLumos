@@ -28,7 +28,9 @@ My tech journey began with a fascination for how systems work and a desire to en
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarLumos&layout=compact&hide=css,html&theme=radical)
 
 ---
-
+## <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/LunarLumos/count.svg)
+---
 ## 🚀 Featured Projects
 
 ### 📚 Books
