@@ -6,8 +6,8 @@ Hello, fellow tech explorers! I’m **LunarLumos** 🌟—a **Programmer**, **Se
 
 ## 🧑‍💻 About Me
 
-**🎓 Education:** University of Helsinki & Daffodil International University  
-**💻 Languages:** Perl, JavaScript  
+**🎓 Education:** Daffodil International University  
+**💻 Languages:** Perl, Bash, Python, C  
 **🔒 Role:** Security Engineer passionate about network security and AI  
 **🧠 Interests:** AI 🤖, Cybersecurity 🔐, Ethical Hacking 🕵️‍♂️  
 **🌍 GitHub Contributions:** Crafting innovative tools and exploring tech frontiers!
